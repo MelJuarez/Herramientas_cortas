@@ -1,0 +1,36 @@
+.One{
+    display: flex;
+    flex-direction: row;
+    
+}
+.navegacion{
+    width: 33rem;
+    height: auto;
+    background-color: aquamarine;
+    margin-top: 3rem;
+    margin-right: 2rem;
+
+    
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.H1 a{
+    text-decoration: none;
+    color: black;
+}
+.multimedia{
+    width: 33rem;
+    height: auto;
+    background-color: rgb(249, 253, 0);
+    margin-top: 3rem;
+    margin-left: 2rem;
+
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.H2 a{
+    text-decoration: none;
+    color: black;
+}

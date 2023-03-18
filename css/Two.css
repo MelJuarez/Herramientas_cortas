@@ -1,0 +1,37 @@
+.Two{
+    display: flex;
+    flex-direction: row;
+}
+.compresores{
+
+    width: 30rem;
+    height: auto;
+    background-color: rgb(206, 163, 255);
+    margin-top: 3rem;
+    margin-right: 2rem;
+
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+}
+.H3 a{
+    text-decoration: none;
+    color: black;
+}
+.drivers{
+    width: 30rem;
+    height: auto;
+    background-color: rgb(255, 163, 213);
+    margin-top: 3rem;
+    margin-right: 2rem;
+
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+.H4 a{
+    text-decoration: none;
+    color: black;
+}

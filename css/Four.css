@@ -1,0 +1,21 @@
+.Four{
+    display: flex;
+    flex-direction: row;
+    
+}
+.virus{
+    width: 33rem;
+    height: auto;
+    background-color: rgb(126, 197, 255);
+    margin-top: 3rem;
+    margin-right: 2rem;
+
+    
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.H7 a{
+    text-decoration: none;
+    color: black;
+}
