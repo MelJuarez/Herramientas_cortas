@@ -4,33 +4,160 @@
     
 }
 .disco{
-    width: 33rem;
+    width: 38rem;
     height: auto;
-    background-color: aquamarine;
+    background-color: rgb(255, 157, 127);
     margin-top: 3rem;
     margin-right: 2rem;
-
+    border-radius: 2rem;
     
-    text-align: center;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
 .H5 a{
     text-decoration: none;
-    color: black;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
+}
+.disco h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+    color: rgb(0, 17, 65);
 }
 .rendimiento{
-    width: 33rem;
+    width: 38rem;
     height: auto;
-    background-color: rgb(249, 253, 0);
+    background-color: rgb(139, 176, 255);
     margin-top: 3rem;
-    margin-left: 2rem;
+    margin-left: 4rem;
 
-    text-align: center;
+    border-radius: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
 .H6 a{
     text-decoration: none;
-    color: black;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
+}
+.rendimiento h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+    color: rgb(0, 17, 65);
+}
+.Sentinel{
+    display: flex;
+    padding-left: 6rem;
+    margin-top: 1rem;
+    
+}
+.Sentinel img{
+    width: 3.2rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.crystal{
+    display: flex;
+    padding-left: 5.4rem;
+    margin-top: 1rem;
+    
+}
+.crystal img{
+    width: 4rem;
+    height: auto;
+    margin-right: 1.6rem;
+    
+}
+.easis{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.easis img{
+    width: 3.7rem;
+    height: auto;
+    margin-right: 2rem;
+  
+    
+}
+.diskchk{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.diskchk img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem;
+  
+    
+}
+.ui{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.ui img{
+    width: 4.8rem;
+    height: auto;
+    margin-right: 2rem;
+  
+    
+}
+.base{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.base img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem; 
+    
+}
+.cpux{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.cpux img{
+    width: 8rem;
+    height: auto;
+    margin-right: 2rem;
+   
+}
+.silver{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.silver img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem;
+    
+}
+.bmark{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.bmark img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem;
+    
 }

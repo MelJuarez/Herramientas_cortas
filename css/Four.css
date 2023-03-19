@@ -3,19 +3,87 @@
     flex-direction: row;
     
 }
+.H7 a{
+    text-decoration: none;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
+}
 .virus{
-    width: 33rem;
+    width: 38rem;
     height: auto;
-    background-color: rgb(126, 197, 255);
+    background-color: rgb(136, 255, 112);
     margin-top: 3rem;
     margin-right: 2rem;
 
     
-    text-align: center;
+    border-radius: 3rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
-.H7 a{
-    text-decoration: none;
-    color: black;
+.virus h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+    color: rgb(0, 17, 65);
+}
+.soph{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.soph img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem; 
+    
+}
+.TOav{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.TOav img{
+    width: 13rem;
+    height: auto;
+    margin-right: 2rem; 
+    
+}
+.AVIRA{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.AVIRA img{
+    width: 8rem;
+    height: auto;
+    margin-right: 2rem; 
+    
+}
+.malw{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.malw img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem; 
+    
+}
+.avast{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.avast img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 2rem; 
+    
 }
