@@ -4,33 +4,218 @@
     
 }
 .navegacion{
-    width: 33rem;
+    width: 38rem;
     height: auto;
-    background-color: aquamarine;
+    background-color: rgb(65, 255, 192);
     margin-top: 3rem;
     margin-right: 2rem;
-
+    border-radius: 2rem;
     
-    text-align: center;
+
     padding-top: 2rem;
     padding-bottom: 2rem;
+    
 }
-.H1 a{
+.navegacion h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+}
+.H1 a{ 
     text-decoration: none;
-    color: black;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
+    
 }
-.multimedia{
-    width: 33rem;
+.Google{
+    display: flex;
+    padding-left: 7rem;
+    
+}
+.Google img{
+    width: 2.6rem;
     height: auto;
-    background-color: rgb(249, 253, 0);
+    margin-right: 2rem;
+  
+    
+}
+
+.Opera{
+    display: flex;
+    padding-left: 5.8rem;
+    margin-top: 1rem;
+    
+}
+.Opera img{
+    width: 5rem;
+    height: auto;
+    margin-right: 0.8rem;
+  
+    
+}
+.Safari{
+    display: flex;
+    padding-left: 6.5rem;
+    margin-top: 1rem;
+    
+}
+.Safari img{
+    width: 3.4rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.Brave{
+    display: flex;
+    padding-left: 6.5rem;
+    margin-top: 1rem;
+    
+}
+.Brave img{
+    width: 3.4rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.Edge{
+    display: flex;
+    padding-left: 6.5rem;
+    margin-top: 1rem;
+    
+}
+.Edge img{
+    width: 3.2rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.Fox{
+    display: flex;
+    padding-left: 6.4rem;
+    margin-top: 1rem;
+    
+}
+.Fox img{
+    width: 3.2rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.Yan{
+    display: flex;
+    padding-left: 3rem;
+    margin-top: 1rem;
+    
+}
+.Yan img{
+    width: 8rem;
+    height: 2rem;
+    margin-right: 1.7rem;
+  
+    
+}
+
+/*-----------Seccion reproductores multimedia--------*/
+.multimedia{
+    width: 38rem;
+    height: auto;
+    background-color: rgb(255, 171, 206);
     margin-top: 3rem;
     margin-left: 2rem;
+    border-radius: 2rem;
 
-    text-align: center;
+ 
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
 .H2 a{
     text-decoration: none;
-    color: black;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
+    
+}
+.multimedia h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+}
+.tunes{
+    display: flex;
+    padding-left: 6rem;
+    margin-top: 1rem;
+    
+}
+.tunes img{
+    width: 3.2rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.vlc{
+    display: flex;
+    padding-left: 6rem;
+    margin-top: 1rem;
+    
+}
+.vlc img{
+    width: 3.5rem;
+    height: auto;
+    margin-right: 1.7rem;
+  
+    
+}
+.win{
+    display: flex;
+    padding-left: 6rem;
+    margin-top: 1rem;
+    
+}
+.win img{
+    width: 3.5rem;
+    height: auto;
+    margin-right: 1.7rem;
+   
+}
+.real{
+    display: flex;
+    padding-left: 4.3rem;
+    margin-top: 1rem;
+    
+}
+.real img{
+    width: 5.4rem;
+    height: auto;
+    margin-right: 1.7rem;
+   
+}
+.km{
+    display: flex;
+    padding-left: 5.8rem;
+    margin-top: 1rem;
+    
+}
+.km img{
+    width: 3.5rem;
+    height: auto;
+    margin-right: 2rem;
+   
+}
+.time{
+    display: flex;
+    padding-left: 5.8rem;
+    margin-top: 1rem;
+    
+}
+.time img{
+    width: 3.7rem;
+    height: auto;
+    margin-right: 2rem;
+   
 }

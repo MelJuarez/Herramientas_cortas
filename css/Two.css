@@ -4,34 +4,171 @@
 }
 .compresores{
 
-    width: 30rem;
+    width: 38rem;
     height: auto;
     background-color: rgb(206, 163, 255);
     margin-top: 3rem;
-    margin-right: 2rem;
-
-    text-align: center;
+    margin-right: 6rem;
+    border-radius: 2rem;
+    
     padding-top: 2rem;
     padding-bottom: 2rem;
     
 }
 .H3 a{
     text-decoration: none;
-    color: black;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
 }
-.drivers{
-    width: 30rem;
-    height: auto;
-    background-color: rgb(255, 163, 213);
-    margin-top: 3rem;
-    margin-right: 2rem;
-
+.compresores h2{
     text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+}
+.Rar{
+    display: flex;
+    padding-left: 5.8rem;
+    margin-top: 1rem;
+    
+}
+.Rar img{
+    width: 3.5rem;
+    height: auto;
+    margin-right: 1.3rem;
+  
+}
+.Free{
+    display: flex;
+    padding-left: 3rem;
+    margin-top: 1rem;
+    
+}
+.Free img{
+    width: 8rem;
+    height: 2.3rem;
+    margin-right: 1.7rem;
+    
+}
+.zip{
+    display: flex;
+    padding-left: 4.3rem;
+    margin-top: 1rem;
+    
+}
+.zip img{
+    width: 5.3rem;
+    height: auto;
+    margin-right: 0.8rem;
+  
+}
+.pea{
+    display: flex;
+    padding-left: 5rem;
+    margin-top: 1rem;
+    
+}
+.pea img{
+    width: 4rem;
+    height: auto;
+    margin-right: 1rem;
+  
+}
+.zipware{
+    display: flex;
+    padding-left: 5.2rem;
+    margin-top: 1rem;
+    
+}
+.zipware img{
+    width: 4.3rem;
+    height: auto;
+    margin-right: 1rem;
+  
+}
+.hamster{
+    display: flex;
+    padding-left: 5.3rem;
+    margin-top: 1rem;
+    
+}
+.hamster img{
+    width: 3.5rem;
+    height: auto;
+    margin-right: 1.5rem;
+  
+}
+
+
+
+/*------------------Drivers-----------------*/
+.drivers{
+    width: 38rem;
+    height: auto;
+    background-color: rgb(250, 247, 56);
+    margin-top: 3rem;
+    border-radius: 2rem;
+    
     padding-top: 2rem;
     padding-bottom: 2rem;
 
 }
 .H4 a{
     text-decoration: none;
-    color: black;
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: rgb(0, 17, 65);
+}
+.drivers h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.3rem;
+}
+.dell{
+    display: flex;
+    padding-left: 9rem;
+    margin-top: 1rem;
+    
+}
+.dell img{
+    width: 4rem;
+    height: auto;
+    margin-right: 1.5rem;
+  
+}
+.hp{
+    display: flex;
+    padding-left: 9rem;
+    margin-top: 1rem;
+    
+}
+.hp img{
+    width: 3.8rem;
+    height: auto;
+    margin-right: 1.8rem;
+  
+}
+.acer{
+    display: flex;
+    padding-left: 7rem;
+    margin-top: 1rem;
+    
+}
+.acer img{
+    width: 6rem;
+    height: 1.8rem;
+    margin-right: 1.7rem;
+    
+}
+.asus{
+    display: flex;
+    padding-left: 4.6rem;
+    margin-top: 1rem;
+    
+}
+.asus img{
+    width: 8.3rem;
+    height: 1.8rem;
+    margin-right: 1.7rem;
+    
 }
